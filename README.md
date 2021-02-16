@@ -8,4 +8,4 @@ Use Scenario: Given a certain set of details like route, origin, destination, an
 ## Important files
 
 - [Project Report](./DS-Report.pdf): Project report written from a business perspective
-- [Jupyter Notebook](./Predict%20Airline%20Demand%20code.ipynb): Contains code for data processing pipeline, models and analysis
+- [Jupyter Notebook](./Predict-Air-Travel-Demand/blob/main/Predict%20Airline%20Demand%20code.ipynb): Contains code for data processing pipeline, models and analysis
